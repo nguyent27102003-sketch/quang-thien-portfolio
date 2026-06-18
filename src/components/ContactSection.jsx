@@ -13,7 +13,7 @@ export default function ContactSection() {
       <div className="max-w-5xl mx-auto z-10 relative">
         <div className="text-center mb-10 fade-rise">
           <div className="section-divider mx-auto"></div>
-          <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight leading-snug max-w-3xl mx-auto" style={{ color: '#F5F1E8' }}>
+          <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight leading-[1.3] md:leading-snug max-w-3xl mx-auto" style={{ color: '#F5F1E8' }}>
             TEAM CẦN NGƯỜI <br className="block md:hidden" />CHẠY ĐƯỢC VIỆC,
             <br />
             MÌNH SẴN SÀNG <br className="block md:hidden" />THAM GIA

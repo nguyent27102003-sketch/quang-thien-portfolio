@@ -52,7 +52,7 @@ export default function ToolsSection() {
       <div className="w-full z-10 relative">
         <div className="text-center mb-10 fade-rise">
           <div className="section-divider mx-auto"></div>
-          <h2 className="text-4xl md:text-5xl font-display font-bold tracking-tight" style={{ color: '#F5F1E8' }}>
+          <h2 className="text-4xl md:text-5xl font-display font-bold tracking-tight leading-[1.3] md:leading-normal" style={{ color: '#F5F1E8' }}>
             CÔNG CỤ <br className="block md:hidden" />THỰC CHIẾN
           </h2>
           <p className="text-base mt-3 max-w-xl mx-auto" style={{ color: '#AFA89A', whiteSpace: 'pre-line' }}>{tools.description}</p>
