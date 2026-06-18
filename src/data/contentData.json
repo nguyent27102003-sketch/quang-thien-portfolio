@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "concept": "Cinematic Dark Gold — Achievement Portfolio",
+    "author": "Nguyễn Quang Thiện"
+  },
+  "slides": [
+    {
+      "id": "s1",
+      "layout": "Hero",
+      "alignment": "left",
+      "primaryTitle": "NGUYỄN QUANG THIỆN",
+      "secondaryTitle": "OPERATION EXECUTIVE",
+      "tagline": "Biến bản vẽ kỹ thuật thành sự kiện hoàn hảo.",
+      "ctaText": "Xem thành quả",
+      "ctaSecondary": "Tải CV",
+      "assets": ["/assets/thien-hero.png"]
+    },
+    {
+      "id": "s2",
+      "layout": "ImpactStats",
+      "primaryTitle": "THÀNH QUẢ NỔI BẬT",
+      "secondaryTitle": "IMPACT NUMBERS",
+      "stats": [
+        { "number": "150+", "label": "Phiên Livestream", "detail": "Đa nền tảng thành công" },
+        { "number": "500+", "label": "Peak Viewers", "detail": "Đồng thời trong 1 phiên" },
+        { "number": "100%", "label": "Xử lý sự cố", "detail": "Kịp thời tại hiện trường" },
+        { "number": "10+", "label": "Dự án Event", "detail": "Activation & Production" }
+      ]
+    },
+    {
+      "id": "s3",
+      "layout": "CaseStudy",
+      "imgPosition": "right",
+      "primaryTitle": "SASIN LIVESTREAM OPS",
+      "secondaryTitle": "FEATURED PROJECT",
+      "context": "Công ty CP Đầu tư SASIN cần vận hành hệ thống livestream đa nền tảng quy mô lớn với yêu cầu chất lượng cao và ổn định liên tục.",
+      "role": "Điều phối toàn bộ kỹ thuật, logistics thiết bị, thương lượng nhà cung cấp và xây dựng quy trình vận hành chuẩn.",
+      "results": [
+        "Vận hành thành công 150+ phiên livestream không gián đoạn",
+        "Duy trì chất lượng ổn định với 500+ viewers đồng thời",
+        "Xây dựng Contingency Plan xử lý sự cố trong < 2 phút",
+        "Tối ưu chi phí thiết bị qua đàm phán trực tiếp với suppliers"
+      ],
+      "tags": ["Livestream", "Multi-platform", "Technical Ops"],
+      "assets": ["/assets/sasin-livestream.png"]
+    },
+    {
+      "id": "s4",
+      "layout": "CaseStudy",
+      "imgPosition": "left",
+      "primaryTitle": "DAI-ICHI LIFE CONTENT",
+      "secondaryTitle": "FEATURED PROJECT",
+      "context": "Dai-ichi Life Gò Vấp 3 cần triển khai chiến lược truyền thông nội bộ và sản xuất nội dung video ngắn cho mạng xã hội.",
+      "role": "Lên kế hoạch content, sản xuất video, phối hợp đa bộ phận để đảm bảo chất lượng và tiến độ.",
+      "results": [
+        "Sản xuất và xuất bản video ngắn đa nền tảng đúng deadline",
+        "Phối hợp hiệu quả giữa các bộ phận Marketing & Operations",
+        "Triển khai thành công các hoạt động truyền thông nội bộ"
+      ],
+      "tags": ["Content Production", "Social Media", "Internal Comms"],
+      "assets": ["/assets/onsite-event.jpg"]
+    },
+    {
+      "id": "s5",
+      "layout": "TechArsenal",
+      "primaryTitle": "CÔNG CỤ THỰC CHIẾN",
+      "secondaryTitle": "TECHNICAL ARSENAL",
+      "tools": [
+        { "name": "OBS Studio", "iconKey": "obs", "category": "Livestream" },
+        { "name": "TikTok Studio", "iconKey": "tiktok", "category": "Livestream" },
+        { "name": "Douyin Studio", "iconKey": "douyin", "category": "Livestream" },
+        { "name": "Facebook Live", "iconKey": "facebook", "category": "Livestream" },
+        { "name": "Premiere Pro", "iconKey": "premiere", "category": "Adobe Video" },
+        { "name": "After Effects", "iconKey": "aftereffects", "category": "Adobe Motion" },
+        { "name": "Photoshop", "iconKey": "photoshop", "category": "Adobe Design" },
+        { "name": "Illustrator", "iconKey": "illustrator", "category": "Adobe Design" },
+        { "name": "Lightroom", "iconKey": "lightroom", "category": "Adobe Photo" },
+        { "name": "CapCut", "iconKey": "capcut", "category": "Video Editing" }
+      ]
+    },
+    {
+      "id": "s6",
+      "layout": "Gallery",
+      "primaryTitle": "BEHIND THE SCENES",
+      "secondaryTitle": "ON-SITE GALLERY",
+      "bodyContent": "Hình ảnh thực tế từ các dự án sự kiện và quy trình vận hành.",
+      "items": [
+        { "image": "/assets/control-desk.jpg", "caption": "Control desk — Giám sát kỹ thuật livestream", "tag": "TECHNICAL" },
+        { "image": "/assets/materials-setup.jpg", "caption": "Setup vật tư & thiết bị trước sự kiện", "tag": "LOGISTICS" },
+        { "image": "/assets/sasin-livestream.png", "caption": "Vận hành phiên live đa nền tảng", "tag": "LIVESTREAM" }
+      ]
+    },
+    {
+      "id": "s7",
+      "layout": "Contact",
+      "primaryTitle": "KẾT NỐI HỢP TÁC",
+      "secondaryTitle": "LET'S CONNECT",
+      "bodyContent": "Sẵn sàng đóng góp vào đội ngũ vận hành chuyên nghiệp. Hãy kết nối để cùng tạo nên những sự kiện ấn tượng.",
+      "metadata": {
+        "Email": "ng.thien27@gmail.com",
+        "Số điện thoại": "034.938.6979",
+        "Vị trí ứng tuyển": "Operation Executive — Event & Production Ops",
+        "Trạng thái": "Sẵn sàng nhận thử thách mới"
+      }
+    }
+  ]
+}
