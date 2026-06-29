@@ -561,7 +561,7 @@ export const contact = {
   description:
     "Sẵn sàng nhận cơ hội mới trong mảng Media, Livestream và Event tại TP.HCM.",
   info: [
-    { label: "Email", value: "ng.thien27@gmail.com", href: "mailto:ng.thien27@gmail.com" },
+    { label: "Email", value: "nq.thien27@gmail.com", href: "mailto:nq.thien27@gmail.com" },
     { label: "Số điện thoại", value: "034.938.6979", href: "tel:0349386979" },
     { label: "Vị trí mong muốn", value: "Media & Livestream Executive" },
     { label: "Khu vực làm việc", value: "TP. Hồ Chí Minh, thuận tiện tại Thủ Đức" },

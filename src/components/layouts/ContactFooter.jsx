@@ -36,7 +36,7 @@ export default function ContactFooter({ data }) {
           </div>
           
           <div className="flex flex-wrap justify-center gap-4 pt-8 mt-6 border-t border-warm-white/5">
-            <a href="mailto:ng.thien27@gmail.com" className="cta-gold">
+            <a href="mailto:nq.thien27@gmail.com" className="cta-gold">
               Gửi Email
               <span>✉</span>
             </a>

@@ -42,7 +42,7 @@ export default function ContactSection() {
 
           {/* CTA Buttons */}
           <div className="flex flex-wrap justify-center gap-4 pt-7 mt-6 border-t border-gold-border/15">
-            <a href="mailto:ng.thien27@gmail.com" className="cta-primary !text-sm !py-3 !px-7">
+            <a href="mailto:nq.thien27@gmail.com" className="cta-primary !text-sm !py-3 !px-7">
               Gửi email ✉
             </a>
             <a href="tel:0349386979" className="cta-secondary !text-sm !py-3 !px-7">
