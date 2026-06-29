@@ -51,8 +51,8 @@ export default function HeroSection() {
               {hero.cta1} <span>→</span>
             </button>
             <a 
-              href="/assets/Nguyen-Quang-Thien-CV.pdf" 
-              download="Nguyen-Quang-Thien-CV.pdf" 
+              href="/assets/CV-NguyenQuangThien.jpg" 
+              download="CV-NguyenQuangThien.jpg" 
               className="cta-secondary !text-sm !py-3.5 !px-7 min-h-[44px]"
             >
               {hero.cta2}

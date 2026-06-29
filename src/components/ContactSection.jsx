@@ -48,7 +48,11 @@ export default function ContactSection() {
             <a href="tel:0349386979" className="cta-secondary !text-sm !py-3 !px-7">
               Gọi ngay 📞
             </a>
-            <a href="#" className="cta-secondary !text-sm !py-3 !px-7">
+            <a 
+              href="/assets/CV-NguyenQuangThien.jpg" 
+              download="CV-NguyenQuangThien.jpg" 
+              className="cta-secondary !text-sm !py-3 !px-7"
+            >
               Tải CV 📄
             </a>
           </div>
