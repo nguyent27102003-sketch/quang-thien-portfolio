@@ -29,6 +29,9 @@ export default function TacticalMapSection() {
   ];
 
   const tags = [
+    "Hùng Cường × Nutricare Activation",
+    "Jerry Festival 2026",
+    "Equipment Configurator (81 SKU)",
     "Sasin Livestream Ops",
     "ZCOM & Elive Academy",
     "Phim ngắn “Giải thoát”",

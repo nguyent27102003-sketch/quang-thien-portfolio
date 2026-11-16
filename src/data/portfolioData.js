@@ -11,20 +11,20 @@ export const meta = {
 
 // ── SECTION 1: HERO ──────────────────────────────────────────
 export const hero = {
-  label: "LIVESTREAM • MEDIA PRODUCTION • EVENT OPS",
+  label: "LIVESTREAM • MEDIA PRODUCTION • DIGITAL ACTIVATION",
   headline: ["NGUYỄN", "QUANG THIỆN"],
   title: "MEDIA & LIVESTREAM EXECUTIVE",
   description:
-    "Mình tham gia setup, vận hành và tối ưu livestream, media, sự kiện để chương trình chạy mượt, lên hình chỉn chu và có kết quả rõ ràng.",
+    "Mình tham gia setup, vận hành và tối ưu livestream, media, sự kiện & hệ thống Digital Activation để chương trình chạy mượt, lên hình chỉn chu và có kết quả rõ ràng.",
   subDescription:
-    "150+ phiên livestream • GMV ghi nhận 10 - 100 triệu/phiên • 500+ người xem đồng thời",
+    "150+ phiên livestream • GMV ghi nhận 10 - 100 triệu/phiên • 1,691 Fanpage/Shop kiểm toán",
   cta1: "Xem dự án thực tế",
   cta2: "Tải CV",
   image: "/assets/thien-hero.png",
   badges: [
     { number: "150+", label: "phiên livestream" },
     { number: "10-100Tr", label: "GMV/phiên" },
-    { number: "500+", label: "người xem đồng thời" },
+    { number: "1,691", label: "shop kiểm toán" },
   ],
 };
 
@@ -32,12 +32,12 @@ export const hero = {
 export const metrics = {
   title: "DẤU ẤN BẰNG SỐ",
   description:
-    "Một vài kết quả thực tế mình đã tham gia trong quá trình làm livestream, media và sự kiện.",
+    "Một vài kết quả thực tế mình đã tham gia trong quá trình làm livestream, media, sự kiện và hệ thống Digital Activation.",
   items: [
     {
       number: "150+",
       unit: "PHIÊN LIVE",
-      label: "Setup và hỗ trợ vận hành livestream đa nền tảng.",
+      label: "Setup, vận hành và đánh giá chất lượng livestream đa nền tảng.",
     },
     {
       number: "10-100",
@@ -45,19 +45,19 @@ export const metrics = {
       label: "GMV ghi nhận trong các phiên livestream đã tham gia.",
     },
     {
-      number: "500+",
-      unit: "NGƯỜI XEM ĐỒNG THỜI",
-      label: "Hỗ trợ duy trì chất lượng vận hành trong các phiên live có lượng xem cao.",
+      number: "1,691",
+      unit: "FANPAGE / SHOP",
+      label: "Hệ thống cửa hàng được kiểm toán hiệu suất & đồng bộ dữ liệu Activation.",
+    },
+    {
+      number: "5,000+",
+      unit: "QUÀ & LƯỢT CHECK-IN",
+      label: "Quy mô quà tặng & hoạt động điều phối tại đại sự kiện Festival Mẹ & Bé.",
     },
     {
       number: "16,480+",
       unit: "LƯỢT XEM",
-      label: "Lượt xem ghi nhận từ phim ngắn “Giải thoát”.",
-    },
-    {
-      number: "300+",
-      unit: "NGƯỜI",
-      label: "Quy mô sự kiện từng tham gia ghi hình và hỗ trợ truyền thông.",
+      label: "Lượt xem ghi nhận từ phim ngắn “Giải thoát” & sản phẩm truyền thông.",
     },
   ],
 };
@@ -170,6 +170,121 @@ export const projects = {
   description:
     "Dưới đây là những dự án mình đã áp dụng cách làm này trong thực tế.",
   items: [
+    {
+      name: "Hùng Cường × Nutricare — Digital Activation & AI Livestream Ops",
+      role: "Digital Activation Executive / Livestream QA & Operations Builder",
+      what: [
+        "Trực tiếp làm việc cùng các hệ thống Mẹ & Bé lớn (Hạnh Bích, Thế Giới Sữa, Kids Plaza, RubyMart...) xây dựng khung KPI Marketing, kịch bản và triển khai chiến dịch Livestream / Post bài Activation.",
+        "Xây dựng Hệ thống Điều hành All-in-One (4 luồng tích hợp): Tự động kiểm toán 1,691 Fanpage toàn quốc, phân loại 4 nhóm hiệu suất (C-Section & Ngôi sao tiềm năng) và đồng bộ Google Sheets Dashboard thời gian thực.",
+        "Phát triển hệ thống AI Đánh giá Livestream Activation (Master V8.0) tích hợp Faster-Whisper, bộ quy tắc Tư duy bằng chứng (Evidence Integrity) và chuẩn hóa ngôn từ Nghị định 100 ngành sữa để chấm điểm, trích xuất timestamp và xuất báo cáo huấn luyện tự động cho Host/PG."
+      ],
+      result: [
+        "Chuẩn hóa quy trình kiểm toán 1,691 shop và tự động hóa báo cáo đánh giá chất lượng phiên live toàn quốc.",
+        "Giúp đội ngũ vận hành và Host/PG tối ưu ngay kịch bản mở live, công thức đóng gói quà tặng và tỷ lệ chuyển đổi."
+      ],
+      resultTag: "Digital Activation & AI Ops",
+      aspect: "portrait",
+      kpis: [
+        { number: "1,691", label: "FANPAGE / SHOP AUDIT" },
+        { number: "4 LUỒNG", label: "HỆ THỐNG ALL-IN-ONE" },
+        { number: "MASTER V8", label: "AI ĐÁNH GIÁ LIVESTREAM" }
+      ],
+      highlights: [
+        "Điều phối chiến dịch Digital Activation",
+        "Kiểm toán 1,691 Fanpage tự động",
+        "AI đánh giá & huấn luyện Livestream",
+        "Họp chiến lược KPI cùng chuỗi đối tác"
+      ],
+      image: "/assets/hungcuong/hc-thien-portrait.jpg",
+      gallery: [
+        "/assets/hungcuong/hc-thien-portrait.jpg",
+        "/assets/hungcuong/hc-thien-meeting-kpi.jpg",
+        "/assets/hungcuong/hc-thien-meeting-hanhbich.jpg",
+        "/assets/hungcuong/hc-thien-meeting-overview.jpg",
+        "/assets/hungcuong/hc-allinone-webapp.jpg",
+        "/assets/hungcuong/hc-fanpage-1691-audit.jpg",
+        "/assets/hungcuong/hc-fanpage-dashboard.jpg",
+        "/assets/hungcuong/hc-fanpage-scoring.jpg",
+        "/assets/hungcuong/hc-livestream-kpi-tracking.jpg",
+        "/assets/hungcuong/hc-glugold-campaign.jpg",
+        "/assets/hungcuong/hc-vulan-illustrator.jpg",
+        "/assets/hungcuong/hc-nutricare-lineup.jpg"
+      ],
+    },
+    {
+      name: "Jerry Festival 2026 — Ngày Hội Mẹ & Bé (Hùng Cường × Nutricare)",
+      role: "Event Activation & Media Producer / Key Visual & KOL-KOC Coordinator",
+      what: [
+        "Xây dựng Master Proposal (23 hạng mục), thiết kế Key Visual 3D “Nutricare Xây Trạm Dinh Dưỡng Cho Cả Gia Đình”, bản vẽ kỹ thuật Cổng chào 3D (5m × 3.3m), Không gian Photobooth, Khu Check-in Cam 360 và Đường đua nhí.",
+        "Thiết kế luồng hoạt động Always-On & Peak Hour (08:00 – 20:00): Check-in 360 tặng 5.000 lốc sữa Bioyo, Photobooth tặng 300 gấu bông, Đường đua nhí 100 thùng sữa, Tài trợ 500 phần quà mẹ bầu và Vòng quay may mắn 1.000 điểm quà.",
+        "Phối hợp Booking, xây dựng SOW/hợp đồng và sản xuất video truyền thông cùng dàn khách mời & KOL/KOC: Ca sĩ Hà Nhi, BSCK II Nguyễn Cát Phương Vũ, TikToker Thiện Nhân (1.4M Followers), TikToker Mai Cồ Chốt (911K Followers), Diễn viên Vân Trang, Lan Phương."
+      ],
+      result: [
+        "Hoàn thiện trọn bộ Proposal, thiết kế 3D POSM/Booth, kịch bản điều phối và sản xuất Video Bán Hàng / Video Tổng kết cho đại sự kiện."
+      ],
+      resultTag: "Mega Event & KOL Activation",
+      aspect: "landscape",
+      kpis: [
+        { number: "5,000+", label: "QUÀ TẶNG CHECK-IN 360" },
+        { number: "1,000", label: "ĐIỂM QUÀ ONTOP (40TR)" },
+        { number: "500+", label: "MẸ BẦU NHẬN TÀI TRỢ" }
+      ],
+      highlights: [
+        "Thiết kế Key Visual & Booth 3D",
+        "Xây dựng Master Proposal 23 trang",
+        "Điều phối Booking KOL/KOC & Nghệ sĩ",
+        "Sản xuất Video Bán Hàng & Tổng kết"
+      ],
+      image: "/assets/hungcuong/jerry-cover.jpg",
+      gallery: [
+        "/assets/hungcuong/jerry-cover.jpg",
+        "/assets/hungcuong/jerry-poster-tram-dinh-duong.jpg",
+        "/assets/hungcuong/jerry-poster-dac-quyen.jpg",
+        "/assets/hungcuong/jerry-cong-chao-3d.jpg",
+        "/assets/hungcuong/jerry-slide-timeline.jpg",
+        "/assets/hungcuong/jerry-slide-photobooth.jpg",
+        "/assets/hungcuong/jerry-slide-mascot.jpg",
+        "/assets/hungcuong/jerry-slide-cam360.jpg",
+        "/assets/hungcuong/jerry-slide-duong-dua-nhi.jpg",
+        "/assets/hungcuong/jerry-slide-qua-me-bau.jpg",
+        "/assets/hungcuong/jerry-slide-1000-diem-qua.jpg",
+        "/assets/hungcuong/jerry-slide-boc-tham.jpg",
+        "/assets/hungcuong/jerry-slide-ca-si-ha-nhi.jpg",
+        "/assets/hungcuong/jerry-slide-hoi-thao-bac-si.jpg"
+      ],
+    },
+    {
+      name: "Hùng Cường Equipment Configurator & Cẩm Nang Vận Hành TMĐT",
+      role: "Media Tech Specialist & E-Commerce Operations Architect",
+      what: [
+        "Xây dựng ứng dụng Hùng Cường Equipment Configurator & Investment Engine V2 gồm 81 sản phẩm ghi hình, âm thanh, ánh sáng (DJI, Amaran, OBSBOT, Ulanzi, SmallRig), tự động đề xuất 3 gói đầu tư (Tiết Kiệm, Cân Bằng, Nâng Cấp) theo số lượng host và ngân sách.",
+        "Biên soạn và lập trình SPA Cẩm Nang Vận Hành TMĐT (Shopee 6 chương & TikTok Shop 18 module từ Cơ bản đến Nâng cao), tích hợp bộ máy tính tài chính SKU tự động tính phí sàn, chiết khấu Affiliate KOL/KOC, thuế và biên lợi nhuận ròng.",
+        "Phát triển công cụ tự động hóa Hợp đồng & Kiểm tra hồ sơ nghiệm thu KOL-KOC giúp chuẩn hóa quy trình vận hành truyền thông."
+      ],
+      result: [
+        "Giúp đội ngũ và đối tác cấu hình bộ thiết bị livestream chuẩn kỹ thuật, tính toán chính xác chi phí và lợi nhuận sàn TMĐT."
+      ],
+      resultTag: "Media Tech & E-Com Ops",
+      aspect: "landscape",
+      kpis: [
+        { number: "81 SKU", label: "THIẾT BỊ LIVE MASTER" },
+        { number: "24 MODULE", label: "CẨM NANG SHOPEE & TIKTOK" },
+        { number: "3 GÓI", label: "ĐỀ XUẤT ĐẦU TƯ TỰ ĐỘNG" }
+      ],
+      highlights: [
+        "Hệ thống cấu hình 81 thiết bị Live",
+        "Cẩm nang vận hành Shopee & TikTok",
+        "Công cụ tính biên lợi nhuận SKU",
+        "Tự động hóa hợp đồng KOL/KOC"
+      ],
+      image: "/assets/hungcuong/hc-tiktok-seller-handbook.jpg",
+      gallery: [
+        "/assets/hungcuong/hc-tiktok-seller-handbook.jpg",
+        "/assets/hungcuong/hc-configurator-combos.jpg",
+        "/assets/hungcuong/hc-configurator-wizard.jpg",
+        "/assets/hungcuong/hc-livestream-tools-matrix.jpg"
+      ],
+    },
     {
       name: "Sasin Livestream Ops",
       role: "Media Assistant / Livestream Operations",
@@ -529,10 +644,10 @@ export const workflow = {
 export const tools = {
   title: "CÔNG CỤ THỰC CHIẾN",
   description:
-    "Những công cụ mình dùng để sản xuất nội dung, vận hành livestream và xử lý công việc media hằng ngày.",
+    "Những công cụ mình dùng để sản xuất nội dung, vận hành livestream, thiết kế sự kiện và tự động hóa quy trình Digital Activation.",
   groups: [
     {
-      name: "Livestream",
+      name: "Livestream & Vận hành",
       items: [
         "OBS Studio",
         "TikTok Live Studio",
@@ -542,6 +657,8 @@ export const tools = {
         "Smartphone",
         "Ánh sáng",
         "Âm thanh",
+        "AI Livestream Audit",
+        "Google Sheets / Apps Script",
       ],
     },
     {
