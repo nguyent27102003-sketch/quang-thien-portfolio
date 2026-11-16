@@ -171,29 +171,111 @@ export const projects = {
     "Dưới đây là những dự án mình đã áp dụng cách làm này trong thực tế.",
   items: [
     {
-      name: "Hùng Cường × Nutricare — Digital Activation & AI Livestream Ops",
-      role: "Digital Activation Executive / Livestream QA & Operations Builder",
+      name: "Chiến Dịch Mega Livestream & Booking KOL/KOC — Hùng Cường × Nutricare",
+      role: "KOL/KOC Livestream Producer & Campaign Operations Executive",
       what: [
-        "Trực tiếp làm việc cùng các hệ thống Mẹ & Bé lớn (Hạnh Bích, Thế Giới Sữa, Kids Plaza, RubyMart...) xây dựng khung KPI Marketing, kịch bản và triển khai chiến dịch Livestream / Post bài Activation.",
-        "Xây dựng Hệ thống Điều hành All-in-One (4 luồng tích hợp): Tự động kiểm toán 1,691 Fanpage toàn quốc, phân loại 4 nhóm hiệu suất (C-Section & Ngôi sao tiềm năng) và đồng bộ Google Sheets Dashboard thời gian thực.",
-        "Phát triển hệ thống AI Đánh giá Livestream Activation (Master V8.0) tích hợp Faster-Whisper, bộ quy tắc Tư duy bằng chứng (Evidence Integrity) và chuẩn hóa ngôn từ Nghị định 100 ngành sữa để chấm điểm, trích xuất timestamp và xuất báo cáo huấn luyện tự động cho Host/PG."
+        "Điều phối & Vận hành chuỗi Livestream KOL/KOC quy mô lớn: Tham gia xây dựng kịch bản phát sóng (timeline 120 phút, kịch bản minigame giữ chân người xem, công thức tư vấn chuyển đổi), kiểm soát chất lượng khung hình và trực tiếp theo dõi, điều phối vận hành chuỗi 10 phiên Livestream cùng Diễn viên Vân Trang tại các hệ thống Mẹ & Bé trọng điểm (Hạnh Bích An Giang, TopMom Bù Đăng, Doraemon Bù Đăng, Shop Jerry Bến Tre, Thế Giới Sữa Đồng Tháp, Phước Thái Đồng Nai) và phiên Mega Live KOC Huyền Phi × Thế Giới Mẹ & Bé Bé Yêu (3.400+ lượt tương tác trực tiếp).",
+        "Quản trị tiến độ sản xuất & Nghiệm thu Video Review KOL/KOC: Phối hợp triển khai Scope of Work (SOW), rà soát kịch bản – hình ảnh và nghiệm thu hiệu quả truyền thông đa nền tảng (TikTok & Facebook Reels) cho chiến dịch Metacare Colos Lactoferrin Plus & Metacare Opti C-Section cùng dàn KOL/KOC lớn: Diễn viên Vân Trang, Diễn viên Lan Phương, TikToker Thiện Nhân (1.4M Followers), TikToker Mai Cồ Chốt (911K Followers), Phương Bến Tre (552K Followers) và Hotmom Mẹ Sam Review.",
+        "Thiết kế Visual Livestream & Hậu kỳ Media Chiến dịch: Thiết kế hệ thống khung hình phát sóng (Overlay/Frame Live), ấn phẩm truyền thông điểm bán (RubyMart, Hạnh Bích, Bé Yêu) và dựng chuỗi video highlight/recap phục vụ quảng cáo chuyển đổi sau phiên live."
       ],
       result: [
-        "Chuẩn hóa quy trình kiểm toán 1,691 shop và tự động hóa báo cáo đánh giá chất lượng phiên live toàn quốc.",
-        "Giúp đội ngũ vận hành và Host/PG tối ưu ngay kịch bản mở live, công thức đóng gói quà tặng và tỷ lệ chuyển đổi."
+        "Vận hành trơn tru chuỗi 10+ phiên Livestream KOL Vân Trang & Mega Live KOC Huyền Phi (đạt 41.000+ lượt xem & hàng ngàn bình luận tương tác mỗi phiên).",
+        "Đảm bảo 100% tiến độ sản xuất và chất lượng hình ảnh/thông điệp nghiệm thu cho chiến dịch KOL/KOC đa nền tảng."
       ],
-      resultTag: "Digital Activation & AI Ops",
-      aspect: "portrait",
+      resultTag: "KOL/KOC Mega Live & Review",
+      aspect: "landscape",
       kpis: [
-        { number: "1,691", label: "FANPAGE / SHOP AUDIT" },
-        { number: "4 LUỒNG", label: "HỆ THỐNG ALL-IN-ONE" },
-        { number: "MASTER V8", label: "AI ĐÁNH GIÁ LIVESTREAM" }
+        { number: "10+ PHIÊN", label: "CHUỖI LIVE KOL VÂN TRANG" },
+        { number: "MEGA LIVE", label: "KOC HUYỀN PHI × BÉ YÊU" },
+        { number: "6+ KOL/KOC", label: "ĐIỀU PHỐI SẢN XUẤT & SOW" }
       ],
       highlights: [
-        "Điều phối chiến dịch Digital Activation",
-        "Kiểm toán 1,691 Fanpage tự động",
-        "AI đánh giá & huấn luyện Livestream",
-        "Họp chiến lược KPI cùng chuỗi đối tác"
+        "Chuỗi 10 phiên Live KOL Vân Trang",
+        "Mega Live KOC Huyền Phi × Bé Yêu",
+        "Quản trị SOW & Nghiệm thu Video KOL",
+        "Thiết kế Khung Live & Hậu kỳ Recap"
+      ],
+      image: "/assets/hungcuong/kol-live-vantrang-1.jpg",
+      gallery: [
+        "/assets/hungcuong/kol-live-vantrang-1.jpg",
+        "/assets/hungcuong/kol-live-huyenphi-beyeu.jpg",
+        "/assets/hungcuong/kol-live-vantrang-3.jpg",
+        "/assets/hungcuong/kol-live-vantrang-2.jpg",
+        "/assets/hungcuong/kol-review-slide-2.jpg",
+        "/assets/hungcuong/kol-review-slide-3.jpg",
+        "/assets/hungcuong/kol-video-vantrang-fb.jpg",
+        "/assets/hungcuong/kol-video-lanphuong-tiktok.jpg",
+        "/assets/hungcuong/kol-video-lanphuong-fb.jpg",
+        "/assets/hungcuong/kol-video-vantrang-tiktok-1.jpg",
+        "/assets/hungcuong/kol-live-frame-rubymart.jpg",
+        "/assets/hungcuong/kol-review-slide-1.jpg"
+      ],
+    },
+    {
+      name: "Jerry Festival 2026 — Sản Xuất Video Animation Bán Hàng, Chuyển Thể Truyền Thông & Onsite Đại Sự Kiện",
+      role: "Motion & Media Producer / Visual Adaptation & Onsite Event Executive",
+      what: [
+        "Sản xuất & Diễn hoạt Video Bán Hàng Animation / Master LED: Từ bộ thiết kế gốc của đại sự kiện Jerry Festival 2026 — Ngày Hội Mẹ & Bé (Hùng Cường × Nutricare), trực tiếp bóc tách lớp đồ họa (layering), xây dựng kịch bản chuyển động và diễn hoạt (Motion Animation) thành bộ Master Video Bán Hàng & Video Tổng hợp quy mô lớn phục vụ trình chiếu màn hình LED sân khấu, gian hàng và phát sóng truyền thông thúc đẩy doanh số.",
+        "Tái thiết kế (Re-design) & Chuyển thể Hệ thống Ấn phẩm Truyền thông: Chuyển thể và tối ưu hóa ngôn ngữ hình ảnh từ Key Visual sự kiện sang hơn 15+ ấn phẩm truyền thông số & POSM đa định dạng (Poster Xây Trạm Dinh Dưỡng, Chuỗi Poster Đặc Quyền Quà Tặng, Banner Tọa Đàm Chuyên Gia BSCK II Nguyễn Cát Phương Vũ, ấn phẩm truyền thông chương trình tài trợ 5.000+ phần quà Check-in 360 & 1.000 điểm quà Ontop).",
+        "Tác nghiệp Hiện trường (Onsite Activation) & Ghi hình Sự kiện: Trực tiếp có mặt tại hiện trường các đại sự kiện kích hoạt thương hiệu (Nutricare × KidsPlaza Mega Sale, Jerry Festival) để phối hợp vận hành khu vực trải nghiệm (Check-in Cam 360, Vòng quay may mắn, gian hàng trưng bày), kiểm soát hình ảnh hiển thị và ghi hình tư liệu thực chiến."
+      ],
+      result: [
+        "Hoàn thiện trọn bộ Master Video Animation Bán Hàng / LED sân khấu và hệ thống ấn phẩm chuyển thể truyền thông đa kênh đồng bộ.",
+        "Hỗ trợ vận hành mượt mà khu vực gian hàng trải nghiệm và truyền thông trực tiếp tại đại sự kiện."
+      ],
+      resultTag: "Motion Animation & Mega Event",
+      aspect: "landscape",
+      kpis: [
+        { number: "2 MASTER VIDEO", label: "ANIMATION BÁN HÀNG & LED" },
+        { number: "15+ ẤN PHẨM", label: "CHUYỂN THỂ TRUYỀN THÔNG" },
+        { number: "5,000+ QUÀ", label: "ĐIỀU PHỐI ONSITE ĐẠI SỰ KIỆN" }
+      ],
+      highlights: [
+        "Diễn hoạt Video Bán Hàng Animation",
+        "Chuyển thể 15+ Ấn phẩm Truyền thông",
+        "Trực tiếp Tác nghiệp Onsite Sự kiện",
+        "Vận hành Gian hàng & Check-in Cam 360"
+      ],
+      image: "/assets/hungcuong/jerry-video-banhang-1.jpg",
+      gallery: [
+        "/assets/hungcuong/jerry-video-banhang-1.jpg",
+        "/assets/hungcuong/jerry-video-tong-2.jpg",
+        "/assets/hungcuong/jerry-video-banhang-2.jpg",
+        "/assets/hungcuong/jerry-video-tong-1.jpg",
+        "/assets/hungcuong/onsite-thien-event.jpg",
+        "/assets/hungcuong/onsite-booth-4.jpg",
+        "/assets/hungcuong/onsite-booth-5.jpg",
+        "/assets/hungcuong/onsite-booth-1.jpg",
+        "/assets/hungcuong/onsite-booth-2.jpg",
+        "/assets/hungcuong/jerry-poster-tram-dinh-duong.jpg",
+        "/assets/hungcuong/jerry-poster-dac-quyen.jpg",
+        "/assets/hungcuong/jerry-banner-toadam-2.jpg"
+      ],
+    },
+    {
+      name: "Hệ Thống Điều Hành Digital Activation, Kiểm Toán 1,691 Fanpage & QA 91+ Phiên Livestream/Tháng",
+      role: "Digital Activation & Livestream QA Operations Executive",
+      what: [
+        "Kiểm soát chất lượng (QA) & Cố vấn 91+ Phiên Livestream Điểm bán mỗi tháng: Theo dõi, đánh giá thực chiến và xuất báo cáo nghiệm thu/cố vấn cho hơn 91+ phiên livestream/tháng của mạng lưới điểm bán Mẹ & Bé khắp TP.HCM, Miền Đông và Miền Tây (Khánh Chi Minimart, Hạnh Bích, Uyên Hưng, Chuỗi Ngọc Minh, Kun Baby, Shop Jerry...) theo 5 tiêu chí chuẩn: góc máy trưng bày, âm thanh – ánh sáng, thời lượng tư vấn, kỹ năng đóng gói quà tặng chốt đơn và chuẩn hóa ngôn từ dinh dưỡng an toàn đa nền tảng.",
+        "Vận hành Hệ thống Kiểm toán 1,691 Fanpage & Tracking KPI Activation: Triển khai quy trình rà soát, phân loại hiệu suất truyền thông cho 1,691 Fanpage/Shop trên toàn quốc (nhóm chiến dịch C-Section, Metacare Opti, Smarta Grow, Glucare Gold), đồng bộ dữ liệu bài đăng & link livestream lên Google Sheets Dashboard để quản trị tiến độ KPI theo thời gian thực.",
+        "Ứng dụng Công cụ Tự động hóa & Chuẩn hóa Thiết bị/TMĐT: Kết hợp hệ thống công cụ số nội bộ (tự động trích xuất bằng chứng hình ảnh, chấm điểm phiên live theo mốc thời gian phút:giây, bộ cấu hình 81 thiết bị phòng live và cẩm nang vận hành Shopee/TikTok Shop) giúp rút ngắn thời gian làm báo cáo và nâng cao tỷ lệ phiên live đạt chuẩn toàn chiến dịch."
+      ],
+      result: [
+        "Chuẩn hóa quy trình nghiệm thu 91+ phiên livestream điểm bán/tháng và kiểm toán đồng bộ 1,691 Fanpage toàn quốc.",
+        "Hỗ trợ đội ngũ PG Sup và các shop cải thiện trực tiếp kỹ năng tư vấn, góc máy trưng bày và hiệu quả chốt đơn trên sóng live."
+      ],
+      resultTag: "1,691 Shops & 91+ Live/Tháng",
+      aspect: "portrait",
+      kpis: [
+        { number: "91+ PHIÊN/THÁNG", label: "NGHIỆM THU & CỐ VẤN LIVE" },
+        { number: "1,691 SHOP", label: "KIỂM TOÁN FANPAGE TOÀN QUỐC" },
+        { number: "4 LUỒNG", label: "TỰ ĐỘNG HÓA VẬN HÀNH & BÁO CÁO" }
+      ],
+      highlights: [
+        "Nghiệm thu & cố vấn 91+ phiên live/tháng",
+        "Kiểm toán hiệu suất 1,691 Fanpage/Shop",
+        "Họp triển khai KPI cùng hệ thống đối tác",
+        "Công cụ tự động hóa QA & Cấu hình thiết bị"
       ],
       image: "/assets/hungcuong/hc-thien-portrait.jpg",
       gallery: [
@@ -201,88 +283,14 @@ export const projects = {
         "/assets/hungcuong/hc-thien-meeting-kpi.jpg",
         "/assets/hungcuong/hc-thien-meeting-hanhbich.jpg",
         "/assets/hungcuong/hc-thien-meeting-overview.jpg",
+        "/assets/hungcuong/hc-live-qa-collage-1.jpg",
+        "/assets/hungcuong/hc-live-qa-collage-2.jpg",
+        "/assets/hungcuong/hc-live-qa-collage-3.jpg",
+        "/assets/hungcuong/hc-gift-scheme-1.jpg",
         "/assets/hungcuong/hc-allinone-webapp.jpg",
         "/assets/hungcuong/hc-fanpage-1691-audit.jpg",
-        "/assets/hungcuong/hc-fanpage-dashboard.jpg",
-        "/assets/hungcuong/hc-fanpage-scoring.jpg",
         "/assets/hungcuong/hc-livestream-kpi-tracking.jpg",
-        "/assets/hungcuong/hc-glugold-campaign.jpg",
-        "/assets/hungcuong/hc-vulan-illustrator.jpg",
-        "/assets/hungcuong/hc-nutricare-lineup.jpg"
-      ],
-    },
-    {
-      name: "Jerry Festival 2026 — Ngày Hội Mẹ & Bé (Hùng Cường × Nutricare)",
-      role: "Event Activation & Media Producer / Key Visual & KOL-KOC Coordinator",
-      what: [
-        "Xây dựng Master Proposal (23 hạng mục), thiết kế Key Visual 3D “Nutricare Xây Trạm Dinh Dưỡng Cho Cả Gia Đình”, bản vẽ kỹ thuật Cổng chào 3D (5m × 3.3m), Không gian Photobooth, Khu Check-in Cam 360 và Đường đua nhí.",
-        "Thiết kế luồng hoạt động Always-On & Peak Hour (08:00 – 20:00): Check-in 360 tặng 5.000 lốc sữa Bioyo, Photobooth tặng 300 gấu bông, Đường đua nhí 100 thùng sữa, Tài trợ 500 phần quà mẹ bầu và Vòng quay may mắn 1.000 điểm quà.",
-        "Phối hợp Booking, xây dựng SOW/hợp đồng và sản xuất video truyền thông cùng dàn khách mời & KOL/KOC: Ca sĩ Hà Nhi, BSCK II Nguyễn Cát Phương Vũ, TikToker Thiện Nhân (1.4M Followers), TikToker Mai Cồ Chốt (911K Followers), Diễn viên Vân Trang, Lan Phương."
-      ],
-      result: [
-        "Hoàn thiện trọn bộ Proposal, thiết kế 3D POSM/Booth, kịch bản điều phối và sản xuất Video Bán Hàng / Video Tổng kết cho đại sự kiện."
-      ],
-      resultTag: "Mega Event & KOL Activation",
-      aspect: "landscape",
-      kpis: [
-        { number: "5,000+", label: "QUÀ TẶNG CHECK-IN 360" },
-        { number: "1,000", label: "ĐIỂM QUÀ ONTOP (40TR)" },
-        { number: "500+", label: "MẸ BẦU NHẬN TÀI TRỢ" }
-      ],
-      highlights: [
-        "Thiết kế Key Visual & Booth 3D",
-        "Xây dựng Master Proposal 23 trang",
-        "Điều phối Booking KOL/KOC & Nghệ sĩ",
-        "Sản xuất Video Bán Hàng & Tổng kết"
-      ],
-      image: "/assets/hungcuong/jerry-cover.jpg",
-      gallery: [
-        "/assets/hungcuong/jerry-cover.jpg",
-        "/assets/hungcuong/jerry-poster-tram-dinh-duong.jpg",
-        "/assets/hungcuong/jerry-poster-dac-quyen.jpg",
-        "/assets/hungcuong/jerry-cong-chao-3d.jpg",
-        "/assets/hungcuong/jerry-slide-timeline.jpg",
-        "/assets/hungcuong/jerry-slide-photobooth.jpg",
-        "/assets/hungcuong/jerry-slide-mascot.jpg",
-        "/assets/hungcuong/jerry-slide-cam360.jpg",
-        "/assets/hungcuong/jerry-slide-duong-dua-nhi.jpg",
-        "/assets/hungcuong/jerry-slide-qua-me-bau.jpg",
-        "/assets/hungcuong/jerry-slide-1000-diem-qua.jpg",
-        "/assets/hungcuong/jerry-slide-boc-tham.jpg",
-        "/assets/hungcuong/jerry-slide-ca-si-ha-nhi.jpg",
-        "/assets/hungcuong/jerry-slide-hoi-thao-bac-si.jpg"
-      ],
-    },
-    {
-      name: "Hùng Cường Equipment Configurator & Cẩm Nang Vận Hành TMĐT",
-      role: "Media Tech Specialist & E-Commerce Operations Architect",
-      what: [
-        "Xây dựng ứng dụng Hùng Cường Equipment Configurator & Investment Engine V2 gồm 81 sản phẩm ghi hình, âm thanh, ánh sáng (DJI, Amaran, OBSBOT, Ulanzi, SmallRig), tự động đề xuất 3 gói đầu tư (Tiết Kiệm, Cân Bằng, Nâng Cấp) theo số lượng host và ngân sách.",
-        "Biên soạn và lập trình SPA Cẩm Nang Vận Hành TMĐT (Shopee 6 chương & TikTok Shop 18 module từ Cơ bản đến Nâng cao), tích hợp bộ máy tính tài chính SKU tự động tính phí sàn, chiết khấu Affiliate KOL/KOC, thuế và biên lợi nhuận ròng.",
-        "Phát triển công cụ tự động hóa Hợp đồng & Kiểm tra hồ sơ nghiệm thu KOL-KOC giúp chuẩn hóa quy trình vận hành truyền thông."
-      ],
-      result: [
-        "Giúp đội ngũ và đối tác cấu hình bộ thiết bị livestream chuẩn kỹ thuật, tính toán chính xác chi phí và lợi nhuận sàn TMĐT."
-      ],
-      resultTag: "Media Tech & E-Com Ops",
-      aspect: "landscape",
-      kpis: [
-        { number: "81 SKU", label: "THIẾT BỊ LIVE MASTER" },
-        { number: "24 MODULE", label: "CẨM NANG SHOPEE & TIKTOK" },
-        { number: "3 GÓI", label: "ĐỀ XUẤT ĐẦU TƯ TỰ ĐỘNG" }
-      ],
-      highlights: [
-        "Hệ thống cấu hình 81 thiết bị Live",
-        "Cẩm nang vận hành Shopee & TikTok",
-        "Công cụ tính biên lợi nhuận SKU",
-        "Tự động hóa hợp đồng KOL/KOC"
-      ],
-      image: "/assets/hungcuong/hc-tiktok-seller-handbook.jpg",
-      gallery: [
-        "/assets/hungcuong/hc-tiktok-seller-handbook.jpg",
-        "/assets/hungcuong/hc-configurator-combos.jpg",
-        "/assets/hungcuong/hc-configurator-wizard.jpg",
-        "/assets/hungcuong/hc-livestream-tools-matrix.jpg"
+        "/assets/hungcuong/hc-configurator-combos.jpg"
       ],
     },
     {
